@@ -1,6 +1,6 @@
 # 42 template c
 
-Template to base [42 school](https://en.wikipedia.org/wiki/42_(school)) C projects on.
+Base template for my [42 school](https://en.wikipedia.org/wiki/42_(school)) C projects.
 
 ## Usage
 
